@@ -1,0 +1,33 @@
+{
+  "companies": [
+    {
+      "id": "d03d5f68229",
+      "name": "NImadir",
+      "year": "2018-06-21",
+      "description": "sld;fks;dkfl;s dk;lfksl;dkf; lksak l;sdk;lf ks;lakf l;ak;l"
+    },
+    {
+      "id": "8839a3deb4c",
+      "name": "iowuefois",
+      "year": "2024-07-27",
+      "description": "lsdkfl; ksdlfk sl;dkk slakf lksl;ak l;skalf; ksl;dkf l;ksal; kas f"
+    },
+    {
+      "id": "3637c2493db",
+      "name": "PDP Academy",
+      "year": "2015-02-20",
+      "description": "dsf.sdm f.,m.,dmf.msa.,a fms.dmf.,ms da,.m f.,"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "637c2493db6",
+      "title": "Frontend",
+      "companyId": "3637c2493db",
+      "salary": "1500",
+      "salaryType": "monthly",
+      "description": "sdkfk jsjfkljslkjflk sjdalkfj lksdjafkl jslkafjl ksajflk ",
+      "companyName": "PDP Academy"
+    }
+  ]
+}
